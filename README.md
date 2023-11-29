@@ -1,6 +1,9 @@
 # FIFA-21-Data-Cleaning-Python
 Welcome to the FIFA 21 Data Cleaning project – where I meticulously transformed raw soccer player data into a polished and consistent dataset using the power of Python on Jupyter Notebook. Dive into the details of the data cleaning process below:
 
+![download](https://github.com/banelendlovu/FIFA-21-Data-Cleaning-Python/assets/62768117/271dc77e-1dff-4ea5-a4ad-9291be4493da)
+
+
 ## Dataset Overview:
 The dataset was initially housed in a CSV file and underwent a thorough cleaning process to enhance its quality and coherence.
 
@@ -19,3 +22,4 @@ To enrich the dataset and facilitate a more comprehensive analysis, I introduced
 3. Contract Length in Years: Calculated and included the duration of each player's contract in years
 
 Explore the intricacies of my data cleaning efforts to witness the transformation of raw FIFA 21 player data into a refined and structured dataset, setting the stage for insightful analyses.
+
